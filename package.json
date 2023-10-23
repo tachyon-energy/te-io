@@ -1,0 +1,23 @@
+{
+  "name": "te-io",
+  "version": "1.0.0",
+  "description": "Tachyon Energy IO Plugin for Johnny-Five",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jshint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tachyon-energy/te-io.git"
+  },
+  "keywords": [
+    "linux-io",
+    "johnny-five",
+    "tachyon-energy"
+  ],
+  "dependencies": {
+    "linux-io": "^1.1.0"
+  },
+  "author": "te-master",
+  "license": "MIT"
+}
