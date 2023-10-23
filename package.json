@@ -1,5 +1,5 @@
 {
-  "name": "te-io",
+  "name": "@te-master/te-io",
   "version": "1.0.0",
   "description": "Tachyon Energy IO Plugin for Johnny-Five",
   "main": "index.js",
